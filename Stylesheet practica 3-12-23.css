@@ -1,0 +1,80 @@
+body{
+    background-image: url(https://previews.123rf.com/images/bezwershenko/bezwershenko1706/bezwershenko170600010/80442714-helado-dulce-en-dise%C3%B1o-lineal-de-patrones-sin-fisuras-ilustraci%C3%B3n-stock-vector-aislado-sobre-fondo.jpg);
+    padding: 20px;
+}
+.menu{
+    background-color: burlywood;
+    width: 80%;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+h1,h2,p{
+    text-align: center;
+}
+h1,h2{
+    font-family: Impact;
+}
+h1{
+    font-size: 40px;
+    margin-top: 0px;
+}
+h2{
+    font-size: 30px;
+}
+.item p{
+    display: inline-block;
+   margin-top: 5px;
+   margin-bottom: 5px;
+   font-size: 20px;
+   font-style: italic;
+}
+.tipo, .llevar{
+    text-align: left;
+    width: 75%;
+}
+.precio{
+    text-align: right;
+    width: 25%;
+}
+hr{
+    background-color: brown;
+    border-color: red;
+    height: 3px;
+    width: 85%;
+}
+.bottom-line {
+    margin-top: 20px;
+}
+footer{
+    font-size: 18px;
+}
+.direccion {
+    margin-bottom: 5px;
+}
+.establecido{
+    font-style: oblique;
+    font-size: 18px;
+}
+a{
+color: black;
+}
+a :active{
+    color:brown;
+}
+a:hover{
+    color: brown;
+}
+a:visited{
+    color: grey;
+}
+.foto{
+    width: 10%;
+    margin-left: 45%;
+}
+.foto2{
+    width: 10%;
+    margin-left: 45%;
+    height: 40px;
+}
